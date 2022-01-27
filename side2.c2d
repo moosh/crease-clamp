@@ -1,0 +1,523 @@
+{
+    "CURVE_OBJECTS": [
+        {
+            "behavior": 3,
+            "center": [
+                16,
+                30
+            ],
+            "cp1": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -10.5,
+                    5.798989872900002
+                ],
+                [
+                    5.798989872900002,
+                    10.5
+                ],
+                [
+                    10.5,
+                    -5.798989872900002
+                ],
+                [
+                    -5.7989898729,
+                    -10.5
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "cp2": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -5.7989898729,
+                    10.5
+                ],
+                [
+                    10.5,
+                    5.798989872900002
+                ],
+                [
+                    5.798989872900002,
+                    -10.5
+                ],
+                [
+                    -10.5,
+                    -5.798989872900002
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "geometryType": "circle",
+            "group_id": [
+            ],
+            "id": "{5b79bb3e-f4fd-447a-9653-1d8ecf932488}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    -10.5,
+                    0
+                ],
+                [
+                    0,
+                    10.5
+                ],
+                [
+                    10.5,
+                    0
+                ],
+                [
+                    0,
+                    -10.5
+                ],
+                [
+                    -10.5,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                16,
+                30
+            ],
+            "radius": 10.5,
+            "smooth": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "behavior": 1,
+            "center": [
+                15,
+                30
+            ],
+            "corner_type": 0,
+            "cp1": [
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    -30
+                ],
+                [
+                    -15,
+                    -30
+                ],
+                [
+                    -15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ]
+            ],
+            "cp2": [
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    -30
+                ],
+                [
+                    -15,
+                    -30
+                ],
+                [
+                    -15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ]
+            ],
+            "geometryType": "rectangle",
+            "group_id": [
+            ],
+            "height": 60,
+            "id": "{31aa7c5b-8b67-468b-ad64-4a9030815d0b}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    -30
+                ],
+                [
+                    -15,
+                    -30
+                ],
+                [
+                    -15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ]
+            ],
+            "position": [
+                15,
+                30
+            ],
+            "radius": 2.15,
+            "smooth": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "width": 30
+        },
+        {
+            "behavior": 1,
+            "center": [
+                16,
+                50.5
+            ],
+            "corner_type": 0,
+            "cp1": [
+                [
+                    2,
+                    12.5
+                ],
+                [
+                    2,
+                    12.5
+                ],
+                [
+                    2,
+                    -12.5
+                ],
+                [
+                    -2,
+                    -12.5
+                ],
+                [
+                    -2,
+                    12.5
+                ],
+                [
+                    2,
+                    12.5
+                ]
+            ],
+            "cp2": [
+                [
+                    2,
+                    12.5
+                ],
+                [
+                    2,
+                    -12.5
+                ],
+                [
+                    -2,
+                    -12.5
+                ],
+                [
+                    -2,
+                    12.5
+                ],
+                [
+                    2,
+                    12.5
+                ],
+                [
+                    2,
+                    12.5
+                ]
+            ],
+            "geometryType": "rectangle",
+            "group_id": [
+            ],
+            "height": 25,
+            "id": "{881e9302-3241-42f0-a10b-86a087d93def}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    2,
+                    12.5
+                ],
+                [
+                    2,
+                    -12.5
+                ],
+                [
+                    -2,
+                    -12.5
+                ],
+                [
+                    -2,
+                    12.5
+                ],
+                [
+                    2,
+                    12.5
+                ],
+                [
+                    2,
+                    12.5
+                ]
+            ],
+            "position": [
+                16,
+                50.5
+            ],
+            "radius": 2.15,
+            "smooth": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "width": 4
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAYlQTkcNChoKAAAADUlIRFIAAAABAAAAAQgAAAAAOn6bVQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAApJREFUCJljYAAAAAIAAfRxZKYAAAAASUVORK5CYII=",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": true,
+        "HEIGHT": 150,
+        "MACHINE": "Shapeoko 3",
+        "MACHINE_TYPE": "Shapeoko",
+        "MATERIAL": "Hardwood",
+        "RETRACT": 6.35,
+        "THICKNESS": 30,
+        "WIDTH": 150,
+        "ZERO_X": 75,
+        "ZERO_Y": 75,
+        "ZERO_Z": 0,
+        "build_num": 623,
+        "grid_enabled": true,
+        "grid_spacing": 1,
+        "minimum_build_num": 524,
+        "version": 1
+    },
+    "REQUIRES_PRO": false,
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_GROUP_OBJECTS": [
+        {
+            "TOOLPATH_OBJECTS": [
+                {
+                    "angle": 0,
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{5b79bb3e-f4fd-447a-9653-1d8ecf932488}"
+                        }
+                    ],
+                    "enabled": true,
+                    "end_depth": 30,
+                    "name": "bore",
+                    "speeds": {
+                        "feedrate": 508,
+                        "plungerate": 203.2,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 1.27,
+                    "stepover": 1.5875,
+                    "stock_to_leave": 0.5,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 2.54,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "",
+                        "name": "#102 1/8\" DEFAULT",
+                        "number": 102,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 203.2,
+                        "read_only": true,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 254,
+                        "slot_rpm": 10000,
+                        "surfacing_feedrate": 508,
+                        "surfacing_rpm": 10000,
+                        "surfacing_stepover": 20,
+                        "type": 0,
+                        "url": "",
+                        "uuid": "{e99365af-38db-4303-952d-9a2b12b5e20f}",
+                        "vendor": ""
+                    },
+                    "type": "pocket_toolpath",
+                    "uuid": "{6acb7b32-6906-45ac-965e-bc52d45d73a8}"
+                },
+                {
+                    "angle": 0,
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{881e9302-3241-42f0-a10b-86a087d93def}"
+                        }
+                    ],
+                    "enabled": true,
+                    "end_depth": 30,
+                    "name": "bore pinch",
+                    "speeds": {
+                        "feedrate": 508,
+                        "plungerate": 203.2,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 1.27,
+                    "stepover": 1.5875,
+                    "stock_to_leave": 0.5,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 2.54,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "",
+                        "name": "#102 1/8\" DEFAULT",
+                        "number": 102,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 203.2,
+                        "read_only": true,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 254,
+                        "slot_rpm": 10000,
+                        "surfacing_feedrate": 508,
+                        "surfacing_rpm": 10000,
+                        "surfacing_stepover": 20,
+                        "type": 0,
+                        "url": "",
+                        "uuid": "{e99365af-38db-4303-952d-9a2b12b5e20f}",
+                        "vendor": ""
+                    },
+                    "type": "pocket_toolpath",
+                    "uuid": "{9a99ff0c-66c7-4538-adf2-6572a74c2a27}"
+                }
+            ],
+            "enabled": true,
+            "name": "Group 1",
+            "uuid": "{9d2f436f-9db8-4415-9daa-44ef442192b0}"
+        }
+    ],
+    "active_layer": "",
+    "layers": [
+        {
+            "blue": 0,
+            "green": 0,
+            "locked": false,
+            "name": "DEFAULT",
+            "red": 0,
+            "uuid": "",
+            "visible": true
+        }
+    ]
+}
+
+
+
+
+MODELV1
+
+
+
+xEÇA	  CQÅH0¼e<AtÂŒñUÀOªÿ©[©;

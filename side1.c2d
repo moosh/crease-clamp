@@ -1,0 +1,839 @@
+{
+    "CURVE_OBJECTS": [
+        {
+            "behavior": 1,
+            "center": [
+                27,
+                58
+            ],
+            "corner_type": 0,
+            "cp1": [
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    -30
+                ],
+                [
+                    -15,
+                    -30
+                ],
+                [
+                    -15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ]
+            ],
+            "cp2": [
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    -30
+                ],
+                [
+                    -15,
+                    -30
+                ],
+                [
+                    -15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ]
+            ],
+            "geometryType": "rectangle",
+            "group_id": [
+            ],
+            "height": 60,
+            "id": "{bf8fc0cf-ff4f-4035-ac6d-3af0ccd3b75e}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    -30
+                ],
+                [
+                    -15,
+                    -30
+                ],
+                [
+                    -15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ],
+                [
+                    15,
+                    30
+                ]
+            ],
+            "position": [
+                27,
+                58
+            ],
+            "radius": 2.15,
+            "smooth": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "width": 30
+        },
+        {
+            "behavior": 1,
+            "center": [
+                18,
+                98
+            ],
+            "corner_type": 0,
+            "cp1": [
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    -10
+                ],
+                [
+                    -6,
+                    -10
+                ],
+                [
+                    -6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ]
+            ],
+            "cp2": [
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    -10
+                ],
+                [
+                    -6,
+                    -10
+                ],
+                [
+                    -6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ]
+            ],
+            "geometryType": "rectangle",
+            "group_id": [
+            ],
+            "height": 20,
+            "id": "{3fadce94-2662-4efc-9d32-02a528a44d0f}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    -10
+                ],
+                [
+                    -6,
+                    -10
+                ],
+                [
+                    -6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ]
+            ],
+            "position": [
+                18,
+                98
+            ],
+            "radius": 2.15,
+            "smooth": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "width": 12
+        },
+        {
+            "behavior": 1,
+            "center": [
+                18,
+                18
+            ],
+            "corner_type": 0,
+            "cp1": [
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    -10
+                ],
+                [
+                    -6,
+                    -10
+                ],
+                [
+                    -6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ]
+            ],
+            "cp2": [
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    -10
+                ],
+                [
+                    -6,
+                    -10
+                ],
+                [
+                    -6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ]
+            ],
+            "geometryType": "rectangle",
+            "group_id": [
+            ],
+            "height": 20,
+            "id": "{db50631f-39ae-4666-b07f-7211416307f6}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                1,
+                1,
+                1,
+                1,
+                4
+            ],
+            "points": [
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    -10
+                ],
+                [
+                    -6,
+                    -10
+                ],
+                [
+                    -6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ],
+                [
+                    6,
+                    10
+                ]
+            ],
+            "position": [
+                18,
+                18
+            ],
+            "radius": 2.15,
+            "smooth": [
+                1,
+                0,
+                0,
+                0,
+                0,
+                1
+            ],
+            "width": 12
+        },
+        {
+            "behavior": 3,
+            "center": [
+                27,
+                78
+            ],
+            "cp1": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -2.5,
+                    1.380711874499994
+                ],
+                [
+                    1.380711874500001,
+                    2.5
+                ],
+                [
+                    2.5,
+                    -1.380711874499994
+                ],
+                [
+                    -1.380711874500001,
+                    -2.5
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "cp2": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -1.380711874500001,
+                    2.5
+                ],
+                [
+                    2.5,
+                    1.380711874499994
+                ],
+                [
+                    1.380711874500001,
+                    -2.5
+                ],
+                [
+                    -2.5,
+                    -1.380711874499994
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "geometryType": "circle",
+            "group_id": [
+            ],
+            "id": "{a5ae1c27-e228-4fbe-b4f0-eac8e9bc887e}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    -2.5,
+                    0
+                ],
+                [
+                    0,
+                    2.5
+                ],
+                [
+                    2.5,
+                    0
+                ],
+                [
+                    0,
+                    -2.5
+                ],
+                [
+                    -2.5,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                27,
+                78
+            ],
+            "radius": 2.5,
+            "smooth": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        },
+        {
+            "behavior": 3,
+            "center": [
+                27,
+                38
+            ],
+            "cp1": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -2.5,
+                    1.380711874500001
+                ],
+                [
+                    1.380711874500001,
+                    2.5
+                ],
+                [
+                    2.5,
+                    -1.380711874500001
+                ],
+                [
+                    -1.380711874500001,
+                    -2.5
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "cp2": [
+                [
+                    0,
+                    0
+                ],
+                [
+                    -1.380711874500001,
+                    2.5
+                ],
+                [
+                    2.5,
+                    1.380711874500001
+                ],
+                [
+                    1.380711874500001,
+                    -2.5
+                ],
+                [
+                    -2.5,
+                    -1.380711874500001
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "geometryType": "circle",
+            "group_id": [
+            ],
+            "id": "{f0ec84c6-25fc-45e6-a514-8d952de71ea7}",
+            "layer": {
+                "blue": 0,
+                "green": 0,
+                "locked": false,
+                "name": "DEFAULT",
+                "red": 0,
+                "uuid": "",
+                "visible": true
+            },
+            "point_type": [
+                0,
+                3,
+                3,
+                3,
+                3,
+                4
+            ],
+            "points": [
+                [
+                    -2.5,
+                    0
+                ],
+                [
+                    0,
+                    2.5
+                ],
+                [
+                    2.5,
+                    0
+                ],
+                [
+                    0,
+                    -2.5
+                ],
+                [
+                    -2.5,
+                    0
+                ],
+                [
+                    0,
+                    0
+                ]
+            ],
+            "position": [
+                27,
+                38
+            ],
+            "radius": 2.5,
+            "smooth": [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ]
+        }
+    ],
+    "DOCUMENT_VALUES": {
+        "BACKGROUND_IMAGE": "AAAAAYlQTkcNChoKAAAADUlIRFIAAAABAAAAAQgAAAAAOn6bVQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAApJREFUCJljYAAAAAIAAfRxZKYAAAAASUVORK5CYII=",
+        "BACKGROUND_OPACITY": 0.5,
+        "BACKGROUND_POSITION_X": 0,
+        "BACKGROUND_POSITION_Y": 0,
+        "BACKGROUND_ROTATION": 0,
+        "BACKGROUND_SCALE": 1,
+        "BACKGROUND_VISIBLE": false,
+        "DISPLAYMM": true,
+        "HEIGHT": 150,
+        "MACHINE": "Shapeoko 3",
+        "MACHINE_TYPE": "Shapeoko",
+        "MATERIAL": "Hardwood",
+        "RETRACT": 6.35,
+        "THICKNESS": 30,
+        "WIDTH": 150,
+        "ZERO_X": 75,
+        "ZERO_Y": 75,
+        "ZERO_Z": 0,
+        "build_num": 623,
+        "grid_enabled": true,
+        "grid_spacing": 1,
+        "minimum_build_num": 524,
+        "version": 1
+    },
+    "REQUIRES_PRO": false,
+    "TEXT_OBJECTS": [
+    ],
+    "TOOLPATH_GROUP_OBJECTS": [
+        {
+            "TOOLPATH_OBJECTS": [
+                {
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "tab_index": [
+                                0,
+                                0
+                            ],
+                            "tab_u": [
+                                0.16111111111111112,
+                                0.6777777777777778
+                            ],
+                            "uuid": "{bf8fc0cf-ff4f-4035-ac6d-3af0ccd3b75e}"
+                        },
+                        {
+                            "tab_index": [
+                                0
+                            ],
+                            "tab_u": [
+                                0.90625
+                            ],
+                            "uuid": "{3fadce94-2662-4efc-9d32-02a528a44d0f}"
+                        },
+                        {
+                            "tab_index": [
+                                0
+                            ],
+                            "tab_u": [
+                                0.40625
+                            ],
+                            "uuid": "{db50631f-39ae-4666-b07f-7211416307f6}"
+                        }
+                    ],
+                    "enabled": true,
+                    "end_depth": 30,
+                    "name": "cutout",
+                    "ofset_dir": 1,
+                    "speeds": {
+                        "feedrate": 1143,
+                        "plungerate": 381,
+                        "rpm": 18000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 1.5,
+                    "stepover": 3,
+                    "tab_height": 3,
+                    "tab_width": 6,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 0.508,
+                        "flutes": 2,
+                        "length": 19.049999999999997,
+                        "model": "102",
+                        "name": "1/8\"\" End Mill (wood)",
+                        "number": 102,
+                        "overall_length": 3.175,
+                        "plungerate": 381,
+                        "read_only": false,
+                        "slot_depth": 2.54,
+                        "slot_feedrate": 1143,
+                        "slot_rpm": 18000,
+                        "surfacing_feedrate": 1143,
+                        "surfacing_rpm": 18000,
+                        "surfacing_stepover": 15,
+                        "type": 0,
+                        "url": "https://shop.carbide3d.com/products/102-125-flat-cutter-qty-3",
+                        "uuid": "{00000000-0000-0000-0000-000000000000}",
+                        "vendor": "Carbide 3D"
+                    },
+                    "uuid": "{ddaf65c1-4070-4899-b3c2-ebcb8c74f171}"
+                },
+                {
+                    "angle": 0,
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{a5ae1c27-e228-4fbe-b4f0-eac8e9bc887e}"
+                        }
+                    ],
+                    "enabled": true,
+                    "end_depth": 30,
+                    "name": "top bolt",
+                    "speeds": {
+                        "feedrate": 508,
+                        "plungerate": 203.2,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 1.27,
+                    "stepover": 1.5875,
+                    "stock_to_leave": 0.5,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 2.54,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "",
+                        "name": "#102 1/8\" DEFAULT",
+                        "number": 102,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 203.2,
+                        "read_only": true,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 254,
+                        "slot_rpm": 10000,
+                        "surfacing_feedrate": 508,
+                        "surfacing_rpm": 10000,
+                        "surfacing_stepover": 20,
+                        "type": 0,
+                        "url": "",
+                        "uuid": "{e99365af-38db-4303-952d-9a2b12b5e20f}",
+                        "vendor": ""
+                    },
+                    "type": "pocket_toolpath",
+                    "uuid": "{1b0e812c-b99a-471a-862f-c011d85a1a78}"
+                },
+                {
+                    "angle": 0,
+                    "automatic_parameters": true,
+                    "elements": [
+                        {
+                            "uuid": "{f0ec84c6-25fc-45e6-a514-8d952de71ea7}"
+                        }
+                    ],
+                    "enabled": true,
+                    "end_depth": 30,
+                    "name": "bottom bolt",
+                    "speeds": {
+                        "feedrate": 508,
+                        "plungerate": 203.2,
+                        "rpm": 10000
+                    },
+                    "start_depth": 0,
+                    "stepdown": 1.27,
+                    "stepover": 1.5875,
+                    "stock_to_leave": 0.5,
+                    "tolerance": 0.01,
+                    "tool": {
+                        "angle": 0,
+                        "corner_radius": 0,
+                        "diameter": 3.175,
+                        "display_mm": false,
+                        "finish_allowance": 2.54,
+                        "flutes": 2,
+                        "length": 12.7,
+                        "model": "",
+                        "name": "#102 1/8\" DEFAULT",
+                        "number": 102,
+                        "overall_length": 38.099999999999994,
+                        "plungerate": 203.2,
+                        "read_only": true,
+                        "slot_depth": 1.27,
+                        "slot_feedrate": 254,
+                        "slot_rpm": 10000,
+                        "surfacing_feedrate": 508,
+                        "surfacing_rpm": 10000,
+                        "surfacing_stepover": 20,
+                        "type": 0,
+                        "url": "",
+                        "uuid": "{e99365af-38db-4303-952d-9a2b12b5e20f}",
+                        "vendor": ""
+                    },
+                    "type": "pocket_toolpath",
+                    "uuid": "{81426385-da38-4fef-b5f0-4bf4e1ac353d}"
+                }
+            ],
+            "enabled": true,
+            "name": "side view",
+            "uuid": "{83a82d77-1ab6-414f-95a4-1f183d0b1198}"
+        }
+    ],
+    "active_layer": "",
+    "layers": [
+        {
+            "blue": 0,
+            "green": 0,
+            "locked": false,
+            "name": "DEFAULT",
+            "red": 0,
+            "uuid": "",
+            "visible": true
+        }
+    ]
+}
+
+
+
+
+MODELV1
+
+
+
+xEÇA	  CQÅH0¼e<AtÂŒñUÀOªÿ©[©;
